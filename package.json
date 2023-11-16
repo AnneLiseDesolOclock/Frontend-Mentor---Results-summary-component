@@ -1,0 +1,29 @@
+{
+  "name": "results-summary-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnneLiseDesolOclock/Frontend-Mentor---Results-summary-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnneLiseDesolOclock/Frontend-Mentor---Results-summary-component/issues"
+  },
+  "homepage": "https://github.com/AnneLiseDesolOclock/Frontend-Mentor---Results-summary-component#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.3",
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "reset-css": "^5.0.2"
+  }
+}

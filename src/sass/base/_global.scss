@@ -1,0 +1,15 @@
+@use '../utils/var';
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    
+    a {
+        color: hsl(228, 45%, 44%);
+    }
+}
+
+body {
+    font-size: var.$fontSize;
+    font-family: var.$fontFamily;
+}
